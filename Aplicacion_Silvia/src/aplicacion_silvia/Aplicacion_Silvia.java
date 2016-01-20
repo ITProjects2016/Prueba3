@@ -18,6 +18,8 @@ public class Aplicacion_Silvia {
         // TODO code application logic here
         
         System.out.println("jajaja");
+        System.out.println("jejeje");
+        System.out.println("jojojo");
     }
     
 }
